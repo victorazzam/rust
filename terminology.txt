@@ -1,0 +1,10 @@
+Crate           A binary or library
+Crate root      Where Rust starts from and makes up the crate's root module
+Package         Set of crates that provide some functionality (Cargo.toml)
+
+Packages:
+• Can have either 0 or 1 library crates
+• Can have any number of binary crates
+• Must have at least 1 crate
+
+
